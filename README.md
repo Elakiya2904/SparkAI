@@ -2,7 +2,7 @@
 This project aims to develop an AI system that predicts the cost and driving range of electric vehicles (EVs) using vehicle specifications, trip data, and environmental factors. It combines machine learning models for precise predictions with a GPT-based chatbot that provides users with insights, recommendations, and answers to EV-related queries.
 # ⚡ Predicting Electric Vehicle (EV) Range and Building a Generative AI Chatbot
 
-## 📘 Week 1: Problem Definition and Setup
+## 📘 Problem Definition and Setup
 
 ---
 
@@ -15,6 +15,17 @@ We will develop:
 2. A **Generative AI chatbot** that explains predictions, gives battery-saving tips, and interacts with users naturally.  
 
 The final system will make EV driving smarter, more efficient, and more user-friendly.
+
+---
+### ❓ Problem Statement
+EV users often struggle with:
+- Uncertain driving range (affected by weather, speed, or terrain).  
+- Limited insights into why their vehicle range fluctuates.  
+- Lack of a friendly system to explain performance in simple terms.  
+
+This project addresses these issues by developing:
+1. A **machine learning model** to predict EV range more accurately.  
+2. A **Generative AI chatbot** that explains results and provides recommendations interactively.
 
 ---
 
@@ -69,18 +80,6 @@ This blend of **predictive intelligence** and **conversational AI** enhances rel
 
 ---
 
-### ❓ Problem Statement
-EV users often struggle with:
-- Uncertain driving range (affected by weather, speed, or terrain).  
-- Limited insights into why their vehicle range fluctuates.  
-- Lack of a friendly system to explain performance in simple terms.  
-
-This project addresses these issues by developing:
-1. A **machine learning model** to predict EV range more accurately.  
-2. A **Generative AI chatbot** that explains results and provides recommendations interactively.
-
----
-
 ### ⚙️ Requirements
 
 #### **Data Inputs**
@@ -118,12 +117,7 @@ This project addresses these issues by developing:
 |----------|--------------|--------|
 | EVs One Electric Vehicle Dataset | EV specs and model features | [Kaggle Link](https://www.kaggle.com/datasets/geoffnel/evs-one-electric-vehicle-dataset) |
 | EV Driver Trips in London | Real-world EV trip data | [Kaggle Link](https://www.kaggle.com/datasets/thedevastator/ev-driver-trips-in-london) |
-| Electric Vehicle Dataset 2024 | Updated EV models and prices | [Kaggle Link](https://www.kaggle.com/datasets/vanillatyy1/electric-vehicle-dataset) |
-| Battery & Heating Data in Real Driving Cycles | Battery and heating performance | [Kaggle Link](https://www.kaggle.com/datasets/atechnohazard/battery-and-heating-data-in-real-driving-cycles) |
-| EV Charging Load Dataset and Optimal Routing | Charging patterns and route optimization | [Kaggle Link](https://www.kaggle.com/datasets/datasetengineer/ev-charging-load-dataset-and-optimal-routing) |
 
 These datasets can be merged to create a comprehensive dataset for both range prediction and chatbot insights.
 
 ---
-
-### 🧰 Project Folder Structure
