@@ -214,3 +214,4 @@ Users can query EV range under real-world conditions and receive personalized, a
 - Upload your Colab notebook (.ipynb) to Google Colab
 
 - Alternatively, you can open the notebook directly from Google Drive or GitHub.
+### Click to view the website: https://unpeaceful-buena-divulsive.ngrok-free.dev/
