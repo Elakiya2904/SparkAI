@@ -128,14 +128,14 @@ These datasets can be merged to create a comprehensive dataset for both range pr
 ### 🧠 Goal
 
 Build and train ML models to predict EV driving range based on trip, vehicle, and environmental features.
---- 
+
 
 ### 🔬 Methodology
 
 **Data Preprocessing**
 
 - Handle missing values, normalize numeric features, encode categorical variables.
-
+  
 - Feature Selection
 
 - Use correlation analysis and feature importance to select relevant features.
@@ -167,6 +167,7 @@ Build and train ML models to predict EV driving range based on trip, vehicle, an
 ### 🧠 Goal
 
 Integrate ML model with a GPT-powered chatbot to provide interactive EV range insights.
+
 ---
 
 
@@ -192,13 +193,14 @@ Integrate ML model with a GPT-powered chatbot to provide interactive EV range in
 
 ### ✅ Conclusion
 
-# Week 1: Defined problem, collected datasets, outlined ML + GPT integration.
+### Week 1: Defined problem, collected datasets, outlined ML + GPT integration.
 
-# Week 2: Trained ML models (Random Forest, XGBoost) to predict EV range accurately.
+### Week 2: Trained ML models (Random Forest, XGBoost) to predict EV range accurately.
 
-# Week 3: Integrated models with Generative AI chatbot for interactive user guidance.
+### Week 3: Integrated models with Generative AI chatbot for interactive user guidance.
 
 ### Outcome: 
+
 Users can query EV range under real-world conditions and receive personalized, actionable insights through a conversational interface.
 
 ---
